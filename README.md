@@ -7,27 +7,27 @@ The goal of this task is to analyze a suspicious email for phishing indicators a
 
 ## 📤 Sample Phishing Email
 
-**Subject**: 🚨 Urgent: Your PayPal Account Has Been Limited  
+**Subject**:  Urgent: Your PayPal Account Has Been Limited  
 **From**: security-update@secure-paypal.com  
 **To**: your_email@example.com
 
 
 ---
 
-## 🛠 Phishing Indicators Identified
+## Phishing Indicators Identified
 
  # Indicator              | Description                                                                 
 
-| ❌ **Spoofed Email**    | Domain `@secure-paypal.com` is not an official PayPal domain.              
-| ⚠️ **Urgent Language**  | Tries to create panic: "Immediate action required"                          
-| 🔗 **Suspicious Link**  | Fake URL disguised as PayPal verification link                              
-| 🙅 **Generic Greeting** | Uses "Dear Customer" instead of personalized name                           
-| 🚨 **Threatening Tone** | Threatens account suspension to pressure user to click                      
-| 🧑‍💻 **Social Engineering** | Exploits trust in PayPal and fear of losing account                        
+|  **Spoofed Email**    | Domain `@secure-paypal.com` is not an official PayPal domain.              
+| **Urgent Language**  | Tries to create panic: "Immediate action required"                          
+| **Suspicious Link**  | Fake URL disguised as PayPal verification link                              
+| **Generic Greeting** | Uses "Dear Customer" instead of personalized name                           
+| **Threatening Tone** | Threatens account suspension to pressure user to click                      
+| **Social Engineering** | Exploits trust in PayPal and fear of losing account                        
 
 ---
 
-## 🧪 Email Header Analysis
+## Email Header Analysis
 
 Tool used: [MXToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
 
@@ -41,7 +41,8 @@ Authentication-Results: spf=softfail smtp.mailfrom=security-update@secure-paypal
 Return-Path: <security-update@secure-paypal.com>
 ...
 
- # Analyze Header of Phishing email
+## Analyze Header of Phishing email
+
 <img width="898" alt="image" src="https://github.com/user-attachments/assets/125b9be8-7169-4ede-8cc7-f40eacb65d29" />
 <img width="923" alt="image" src="https://github.com/user-attachments/assets/066e74bf-a89e-42e1-80c5-678e1a040a49" />
 
