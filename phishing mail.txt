@@ -1,0 +1,18 @@
+From: security-update@secure-paypal.com
+To: your_email@example.com
+Subject: 🚨 Urgent: Your PayPal Account Has Been Limited
+
+Dear Customer,
+
+We noticed unusual activity in your PayPal account and have temporarily limited your access for security reasons. Immediate action is required to restore full access.
+
+To confirm your identity, please log in to your account by clicking the secure link below:
+
+🔒 Verify Now
+
+If we do not hear from you within 24 hours, your account will be permanently suspended.
+
+Thank you for your cooperation.
+
+Sincerely,
+PayPal Security Team
