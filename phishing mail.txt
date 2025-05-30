@@ -16,7 +16,7 @@ Thank you for your cooperation.
 
 Sincerely,
 PayPal Security Team
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##HEADER
 Received: from unknown123.secure-login247.com ([192.168.1.15])
 	by smtp.secure-paypal.com with SMTP id xYz123abc456;
